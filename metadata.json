@@ -1,0 +1,6 @@
+{
+  "name": "Manual AI Camera",
+  "description": "A professional manual control camera application featuring intelligent AI real-time image enhancement, night mode, scene recognition, and fine-tuning filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
